@@ -1,0 +1,17 @@
+Box2D==2.3.2
+Box2D-kengz==2.3.3
+cloudpickle==2.2.1
+contourpy==1.1.0
+cycler==0.11.0
+fonttools==4.41.1
+gym==0.26.2
+gym-notices==0.0.8
+kiwisolver==1.4.4
+matplotlib==3.7.2
+numpy==1.25.1
+packaging==23.1
+Pillow==10.0.0
+pygame==2.5.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+six==1.16.0
